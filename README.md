@@ -13,8 +13,8 @@ This project is powered by [Chat Engine](https://chatengine.io).
 ## 
 
 ## Features
--Users are able to create/login to their account with a username/password
--Ability to chat with other users through the ChatEngine API
+- Users are able to create/login to their account with a username/password
+- Ability to chat with other users through the ChatEngine API
 - Create/Send/Update Messages to other users on the platform.
 
 
